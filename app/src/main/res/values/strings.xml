@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ServerProducts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_all_products">AllProductsActivity</string>
+    <string name="title_activity_new_product">NewProductActivity</string>
+    <string name="title_activity_edit_product">EditProductActivity</string>
+</resources>

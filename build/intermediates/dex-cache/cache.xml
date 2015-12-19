@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tamier/ece651/ServerProducts/app/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/home/tamier/ece651/ServerProducts/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy-ceda658297564648fecb9fd8fcf6ee8c663f6e26.jar" />
+    </item>
+    <item
+        jar="/home/tamier/ece651/ServerProducts/app/libs/json-simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/home/tamier/ece651/ServerProducts/app/build/intermediates/pre-dexed/debug/json-simple-1.1-da21524e5118815814b08e19de83e6529011e88b.jar" />
+    </item>
+
+</items>
